@@ -5,3 +5,9 @@ nav:
 
 theme:
   name: 'material'
+
+
+extra_css:
+  - stylesheets/dark_theme.css
+  - stylesheets/codehilite.css
+  - stylesheets/custom.css
